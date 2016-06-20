@@ -7,3 +7,5 @@
  
  You must have Go installed in order to build.
  
+ Future: add QR encoder and decoder and figure life out
+ 
